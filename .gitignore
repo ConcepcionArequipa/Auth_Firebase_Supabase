@@ -1,0 +1,14 @@
+# Carpetas de dependencias (pesadas)
+node_modules/
+
+# Archivos de configuración y secretos
+.env
+serviceAccountKey.json
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de compilación (si existen)
+dist/
+build/
