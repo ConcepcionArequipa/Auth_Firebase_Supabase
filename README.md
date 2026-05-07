@@ -52,6 +52,8 @@ Una vez iniciados ambos servicios, accede a la aplicación en: http://localhost:
   
   <img width="923" height="442" alt="image" src="https://github.com/user-attachments/assets/042066c6-0810-4c34-8129-88a2cf3933dd" />
 
+  <img width="1589" height="523" alt="image" src="https://github.com/user-attachments/assets/f42dca47-9c7e-4590-80cd-802bb1f16b35" />
+
 - Menu principal del usuario
 
   <img width="926" height="447" alt="image" src="https://github.com/user-attachments/assets/47efbc7a-6fb3-4577-b96f-8baccd1c6df4" />
