@@ -1,6 +1,5 @@
 const express = require("express");
 const cors = require("cors");
-// Asegúrate de que en ./firebase estés exportando 'admin' y 'auth' correctamente
 const { auth } = require("./firebase");
 
 const app = express();
